@@ -1,0 +1,2 @@
+text = "";
+instance_destroy();
